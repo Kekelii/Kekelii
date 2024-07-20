@@ -1,4 +1,4 @@
-# 👋 Hello I'm Courage Kekeli:
+# 👋 Hello I'm Courage Kekeli
 👨‍💻 Software Engineer | Open Source Advocate<br>📅  7+ Years of Web Experience<br>🛣️ My journey in coding began with a fascination for how technology can solve real-world problems and positively impact people's lives. Since then, I've dedicated myself to building solutions that are not only effective but also meaningful.<br><br>What I Do:<br>🌐 Open Source Advocacy<br>💻 Web & Software Development<br>📚 Continuous Learning<br><br>Core Values:<br><br>🤝 Collaboration: Great software is built through teamwork and shared vision.<br>🌱 Growth: Personal and professional growth are at the heart of what I do.<br>🌍 Humanity: At the end of the day, it's all about people.<br><br>Feel free to connect with me, explore my projects, and join me in building a better world through code!
 
 
